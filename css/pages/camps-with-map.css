@@ -1,0 +1,13 @@
+.camps-with-map {
+  display: flex;
+}
+
+.camps-with-map .cards {
+  flex-grow: 1;
+}
+
+#map{
+  height: 100vh;
+  position: sticky;
+  top: 0;
+}
